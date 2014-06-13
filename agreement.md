@@ -43,6 +43,6 @@ HackCamp運営事務局御中
 
 【住所】 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-※成果物、アイデアの違いや権利の取り決めの考え方については、本イベントのFAQ（https://github.com/HackCamp/docomo_psim/blob/master/FAQ.md ）も合わせてご確認ください。
+※成果物、アイデアの違いや権利の取り決めの考え方については、本イベントのFAQ（https://github.com/HackCamp/docomo_psim_agreement/blob/master/FAQ.md ）も合わせてご確認ください。
 
 ※参加者から提出を受けた個人情報は、個人情報の保護に関する法律（個人情報保護法）にしたがって取り扱い、参加者の同意なく、本イベント以外の目的での利用または第三者への提供はいたしません。
