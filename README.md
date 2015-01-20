@@ -2,8 +2,8 @@
 
 2015年2月25日及び2月21日に、「HTML5学習教材ハッカソン」というイベントを開催いたします。
 
-[Doorkeeperの申し込みページ(事前アイデアソン](http://hackcamp.doorkeeper.jp/events/19718)
-[Doorkeeperの申し込みページ(ハッカソン)](http://hackcamp.doorkeeper.jp/events/19719)
+- [Doorkeeperの申し込みページ(事前アイデアソン)](http://hackcamp.doorkeeper.jp/events/19718)
+- [Doorkeeperの申し込みページ(ハッカソン)](http://hackcamp.doorkeeper.jp/events/19719)
 
 このイベントは、参加者が多様な視点や知識を持ち寄って共にアイデアを創出し、自らの知識や技術等を提供し合い、実装することにより、イノベーションを創出することを目的としたものです。
 
